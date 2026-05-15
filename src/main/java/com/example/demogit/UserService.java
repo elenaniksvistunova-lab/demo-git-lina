@@ -1,10 +1,9 @@
-package com.example.demogit;
 
-@SpringBootApplicatio
-public class DemoGitApplication {
+public class U {
 
-    public static void main(Straing[] args) {
-        SpringAppApplication.run(DemoGitApplication.class, args);
+    public void helloWorld() {
         System.out.println("hello world");
     }
 }
+
+
